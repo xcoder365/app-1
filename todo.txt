@@ -1,0 +1,10 @@
+we need a github account (free)
+
+download github for desktop to sync repository
+
+create a public app-1 repository and sync with an empty local folder
+in my case d:\app-to-render\app-1  (empty at first)
+
+then we create and app1.py (code generated with chatgbt) ,
+data.csv (what ever you like)
+requirements.txt to install libraries 
